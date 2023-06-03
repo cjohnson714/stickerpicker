@@ -1,6 +1,10 @@
 {
   "packs": [
-    "Integrus.json"
+    "Integrus.json",
+    "ShinskyBadinsky.json",
+    "Phillypack.json",
+    "Willshit.json",
+    "JoeyWT.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
